@@ -1,1 +1,2 @@
-this is my read me file as thia is the best code in the world
+this is my readme file . This is the best code in the world
+let me walk you through this project
